@@ -9,10 +9,10 @@
 | top        | PHC2       | photocoupler                     | PS2501      | DIP4         |
 | top        | S6         | JST connector                    | JST B5B-EH  |              |
 | bottom     | C10        | capacitor, 1nF                   |             | 0603         |
-| bottom     | C11        | capacitor, 2.2nF                 |             | 0603         |
-| bottom     | C12        | capacitor, 2.2nF                 |             | 0603         |
+| bottom     | C11        | capacitor, 1nF                   |             | 0603         |
+| bottom     | C12        | capacitor, 1nF                   |             | 0603         |
 | bottom     | C2         | capacitor, 10µF                  |             | 0805         |
-| bottom     | C39        | capacitor, 0.47µF                |             | 0603         |
+| bottom     | C39        | capacitor, 1n                    |             | 0603         |
 | bottom     | C4         | capacitor, 2.2nF                 |             | 0603         |
 | bottom     | C9         | capacitor, 1nF                   |             | 0603         |
 | bottom     | FB1        | ferrite bead                     |             | 1206         |
