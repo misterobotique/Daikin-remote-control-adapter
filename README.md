@@ -19,10 +19,11 @@ I uploaded a few photos of the "remote control adapter" I got, including:
 ・PCB bottom side  
 
 ## Schematic
-Along with KiCad files, I also created a PDF version. Only a few capacitor values are missing.
+Along with KiCad files, I also created a PDF version. 
 
 ## BOM
 Since I managed to identify all components, I created a bill of material.
+Resistors were measured with a Sanwa PC700 DMM, and capacitors with a DER EE DE-5000 LCR meter.
 
 ## Datasheets
 Compilation of datasheets of the main components for reference.
